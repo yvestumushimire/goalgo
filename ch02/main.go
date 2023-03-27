@@ -40,3 +40,7 @@ func InsertionSortReverse(arr []int) []int {
 
 	return arr
 }
+
+func mergeSort(arr []int) []int {
+
+}
